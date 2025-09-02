@@ -26,6 +26,9 @@
  
 <img src="quarta-normalizacao.png">
 
+### Modelo conceitual MER
+<img src="modelo-conceitual-mer.png">
+
 ## modelo fisico de bando de dados 
 ### script que gera o banco de dados
 #### formato SQL - structure query language
